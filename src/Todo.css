@@ -1,0 +1,11 @@
+.todo__list{
+    text-align: center;
+    padding-left: 400px;
+    border-left-width: 50px;
+    margin-left: 100px;
+}
+
+.adjust{
+    display: flex;
+    text-align: center;
+}
